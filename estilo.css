@@ -1,0 +1,119 @@
+#barraUno{
+    background-color:#2C323E;
+    margin-bottom: 15px;
+    padding-bottom: 0.5%;
+}
+
+
+#Icono{
+    color: white;
+    padding-left: 5%;
+}
+
+#tic{
+    color:#82CF26
+}
+
+#uno {
+    color: white;
+}
+
+#barraDos{
+    background: rgb(17,75,103);
+    background: linear-gradient(90deg, rgba(17,75,103,0.24693627450980393) 0%, rgba(26,32,50,1) 0%, rgba(7,48,74,0.8687850140056023) 100%);
+
+}
+
+.navbar-text{
+    color:white;
+   font-size: 15px;
+padding: 20px;
+}
+
+h6{
+    padding-left: 160px;
+font-size: 15px;
+    justify-content: center;
+}
+
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.text-muted{
+    text-align: center;
+    padding:15px;
+
+}
+
+#cantidad{
+    width: 60%;
+ margin-left: 40%;
+ 
+}
+
+#CategoriasElegida {
+    width: 60%;
+    margin-left: 20%;
+    margin: 0%;
+}
+
+#btnReset {
+    color: white;
+    text-align: center;
+    border-color: white;
+    background-color: #82CF26;
+    width:400px;
+    height:45px;
+    border-radius: 5px;
+    margin-left: 220px;
+}
+
+#btnResumen{
+    color: white;
+    text-align: center;
+    border-color: white;
+    background-color: #82CF26;
+    width:400px;
+    height:45px;
+    border-radius: 5px;
+    margin-left: 2.5%;
+}
+
+#resultadoFinal {
+    background-color: #B7DFF9;
+    color:darkblue;
+    width:800px;
+    height: 55px; 
+    margin-left: 19%;
+    text-align: left;
+
+}
+
+#Nombre {   
+    padding-top: 1%;
+
+    width: 50%;
+    margin-left: 20%;
+   
+
+}
+
+#Apellido {
+    padding-top: 1%;
+    width: 50%;
+    margin-left: 0%;
+    margin-right: 20%;
+   
+}
+
+#email {
+    width: 60%;
+    margin-left: 20%;
+   
+}
+
+
